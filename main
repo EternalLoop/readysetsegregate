@@ -1,0 +1,204 @@
+<html lang="en" class="hydrated"><head>
+  <meta charset="UTF-8"><style data-styles="">ion-icon{visibility:hidden}.hydrated{visibility:inherit}</style>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <!-- Meta -->
+  <meta name="author" content="Elijah Patrick C. Panique">
+  <meta name="description" content="Welcome to the website of CAPSTONE Group 28!">
+  <link rel="icon" href="/public/images/earth.png">
+  <meta property="og:site_name" content="CAPSTONE Group 28">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="/public/images/earth.png">
+  <meta httpequiv="Content-Security-Policy">
+  <title>CG28 / HSE</title>
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
+  <!-- Style.css and Font -->
+  <link rel="stylesheet" href="/src/styles/style.css">
+  <link rel="stylesheet" href="/public/fonts/stylesheet.css">
+  <!-- Other stylesheets -->
+  <link rel="stylesheet" href="https://unpkg.com/kursor/dist/kursor.css">
+</head>
+<body id="app" data-new-gr-c-s-check-loaded="14.1083.0" data-gr-ext-installed=""><div class="kursor kursor--4 kursor--hidden" style="--k-color:255,255,255; left: 1211px; top: 70px;"></div><div class="kursorChild kursorChild--hidden" style="--k-color:255,255,255; left: 1211px; top: 70px;"></div>
+  <!-- Navbar -->
+  
+    <nav class="navbar navbar-expand-lg navbar-mainbg noselect" id="Home">
+      <a href="/" class="navbar-brand navbar-logo"><i class="fas fa-recycle"></i>Ready Set Segregate</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle Navigation">
+        <ion-icon name="menu-outline" role="img" class="md hydrated" aria-label="menu outline"></ion-icon>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ml-auto">
+          <div class="hori-selector" style="top: 0px; left: 799.594px; height: 62.5px; width: 130.016px;">
+            <div class="left"></div>
+            <div class="right"></div>
+          </div>
+            <li class="nav-item">
+              <a href="#" class="nav-link">
+                <i class="fas fa-leaf"></i>Home
+              </a>
+            </li>
+            <li class="nav-item active">
+              <a href="#Overview" class="nav-link">
+                <i class="fas fa-sticky-note"></i>Overview
+              </a>
+            </li> 
+            <li class="nav-item">
+              <a href="#Resources" class="nav-link">
+                <i class="fas fa-book"></i>Resources
+              </a>
+            </li> 
+        </ul>
+      </div>
+    </nav>
+  
+    <!-- Header -->
+    <header class="pt-5 noselect">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-md-6">
+            <h1 class="mb-4 font-weight-bold text-white">
+              Welcome to the website of <span class="text-success">CAPSTONE Group 28</span>! <i class="fas fa-heart"></i>
+            </h1>
+            <p class="mb-4 pb-2">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste explicabo ea quaerat labore sunt corrupti nemo praesentium quisquam beatae eos alias, enim autem dolorem asperiores esse reiciendis? Ducimus rerum corporis dolore laboriosam vitae distinctio quidem pariatur, fugiat officia ipsa cum! Eaque animi ad reiciendis nemo eveniet commodi quidem perspiciatis fugit.
+            </p>
+            <div>
+              <a href="#Overview" class="text-center btn btn-outline-light btn-lg btn-block">Read more</a>
+            </div>
+          </div>
+  
+          <div class="col-md-6">
+            <img src="/public/images/earth.png" class="img-fluid" alt="Earth">
+          </div>
+        </div>
+      </div>
+    </header>
+  
+    <!-- Overview -->
+    <section class="mt-5 pt-5">
+      <div class="container">
+        <div class="row" id="Overview">
+          <div class="col-md-12">
+            <h1 class="mb-4 font-weight-bold text-white noselect">
+              <i class="fas fa-search"></i>Overview
+            </h1>
+            <p class="mb-4 pb-2">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae enim eligendi vel autem ipsa facilis provident tenetur fugit consequuntur excepturi assumenda adipisci labore dolor amet ut obcaecati at ad alias, necessitatibus unde quae rerum? Mollitia amet quam aperiam, aspernatur fugiat nemo! Hic reiciendis doloremque vel officia soluta, excepturi molestias ab debitis culpa assumenda nesciunt reprehenderit. Est ab aut distinctio laborum! Reiciendis eos consectetur voluptates placeat provident delectus atque, dolorum doloribus, earum esse officiis? Aut sed blanditiis aliquid nam ea quae ducimus quod incidunt, culpa unde adipisci reprehenderit necessitatibus nisi et est ad numquam ut eos modi quibusdam! Nemo, dignissimos ipsa?
+            </p>
+            <p class="mb-4 pb-2">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed enim voluptate voluptatum quos saepe a quis. Quisquam beatae facilis at quidem aut, debitis, inventore ex, ipsum culpa possimus tempora hic eos maiores magnam iste dolores. Quia distinctio, optio rerum placeat sint porro sapiente nam aut minus numquam culpa consequuntur delectus itaque dolor eos tempora expedita natus quisquam a asperiores earum ipsam repudiandae! Facilis, ipsa mollitia omnis corrupti quidem voluptas exercitationem odit saepe amet iusto accusantium rerum facere aperiam, ab aut ullam officia reiciendis fuga! A, aut. Consequuntur ad eaque provident libero, voluptatibus officia ea tempora nostrum inventore eum iste dolor ullam! A modi tempore ad quibusdam saepe aliquam pariatur? Aut eaque id nobis et perferendis, obcaecati recusandae fuga ex dolor quidem accusantium tempore, iste ipsa quia consequatur cupiditate sunt inventore quisquam incidunt quis distinctio amet blanditiis esse? Ratione, unde error rem praesentium fuga hic ducimus placeat facilis quidem, aliquam asperiores corrupti! Nam nulla quos quidem perferendis, voluptas error illum omnis reprehenderit facilis consequuntur, dolorum unde necessitatibus facere odit impedit aliquam aspernatur doloremque dolorem accusantium possimus dignissimos aut! Deleniti at illo fuga impedit illum nihil natus distinctio veritatis libero, nam iure ipsum debitis voluptas obcaecati aliquam quasi quia reprehenderit inventore repudiandae.
+            </p>
+            <p class="mb-4 pb-2">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste culpa ducimus sint neque deserunt expedita, eius dolorum sapiente illo earum modi illum? Fugiat modi explicabo tempora, labore a harum maxime, id autem ea ratione nulla reiciendis mollitia. Eveniet animi adipisci dolorem fugiat a deserunt non blanditiis dignissimos, nobis quibusdam maxime quam delectus eligendi recusandae ea ex architecto minus? Dolor culpa quidem voluptatem sed. Atque facere ipsum quia, dignissimos consequuntur amet dolore perferendis est, hic illum magnam voluptates at cupiditate dolorum voluptate quasi minus, provident nobis mollitia. Odio debitis eaque tempore.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Resources -->
+    <section class="mt-5 pt-5">
+      <div class="container">
+        <div class="row align-items-center" id="Resources">
+          <div class="col-md-6">
+            <h1 class="mb-4 font-weight-bold text-white noselect">
+              <i class="fas fa-book"></i>Resources
+            </h1>
+            <p>Where the resources go, videos/articles blablablablablablabalabl</p>
+            <div class="row">
+              <div class="col-md-6 mb-md-0 mb-3 ml-3">
+                <ul class="list-unstyled mb-5">
+                  <li>
+                    <a href="#">Link 1</a>
+                    <p>Article/Video Title</p>
+                  </li>
+                  <li>
+                    <a href="#">Link 2</a>
+                    <p>Article/Video Title</p>
+                  </li>
+                  <li>
+                    <a href="#">Link 3</a>
+                    <p>Article/Video Title</p>
+                  </li>
+                  <li>
+                    <a href="#">Link 4</a>
+                    <p>Article/Video Title</p>  
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer class="page-footer font-small footer-mainbg pt-4">
+
+      <!-- Footer Text -->
+      <div class="container-fluid text-center">
+    
+        <!-- Grid row -->
+        <div class="row">
+    
+          <!-- Grid column -->
+          <div class="col-md-6 mt-md-0 mt-3">
+    
+            <!-- Content -->
+            <h5 class="font-weight-bold text-white mt-5">
+              © 2021
+              <a href="https://capstone28.vercel.app" class="text-success">Capstone Group 28</a> |
+              <a href="#Home" class="text-warning">Back to top</a>
+            </h5>
+    
+          </div>
+          <!-- Grid column -->
+    
+          <hr class="clearfix w-100 d-md-none pb-3">
+    
+          <!-- Grid column -->
+          <div class="col-md-6 mb-md-0 mb-3">
+    
+            <!-- Content -->
+            <h5 class="text-uppercase font-weight-bold text-white mt-2">Group 28</h5>
+            <p class="mb-4">
+              Geoff Aidan Brian Llamas,
+              Gillian Audrey Pagayonan,
+              Iorwen Armelle De Sagun,
+              Elijah Patrick Panique,
+              Trina Marielle Capuno,
+              Pita Angeli Jackson,
+              Althea Juliette Mendoza,
+              Trisha Mari Rivera,
+              Khenn Girang
+            </p>
+    
+          </div>
+          <!-- Grid column -->
+    
+        </div>
+        <!-- Grid row -->
+    
+      </div>
+      <!-- Footer Text -->
+    
+      <!-- Copyright -->
+      <div class="footer-copyright text-center py-3 text-muted">
+        Made with &nbsp;<i class="fas fa-heart"></i>by Elijah Patrick Panique
+      </div>
+      <!-- Copyright -->
+    
+    </footer>
+    <!-- Footer -->
+  
+
+  <!-- Scripts -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/kursor"></script>
+  <!-- Custom Script -->
+  <script src="/src/scripts/main.js"></script>
+  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+
+</body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>
